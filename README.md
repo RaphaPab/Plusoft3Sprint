@@ -63,9 +63,23 @@ Esses métodos estão disponíveis para todos os recursos mencionados, garantind
 #### Descrição
 Este endpoint retorna a lista de todos os clientes cadastrados no sistema.
 
+Exemplo Corpo de resposta
 ![image](https://github.com/user-attachments/assets/10a7ef6f-3cac-4e4b-b472-fd63fd61cc64)
 
 
+
+### Buscar Cliente
+
+#### Endpoint
+
+- **Método**: GET  
+- **URL**: '/localhost:7146/api/Clientes/4'
+
+- #### Descrição
+Este endpoint retorna o ID do cliente cadastrado no sistema.
+
+Exemplo Corpo de resposta
+![image](https://github.com/user-attachments/assets/e141ccf3-a6a7-46ae-bec2-806384c60b7b)
 
 
 
