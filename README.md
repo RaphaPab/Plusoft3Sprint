@@ -43,5 +43,34 @@ Cada recurso interage com o banco de dados **Oracle** utilizando o **Entity Fram
 
 Esses métodos estão disponíveis para todos os recursos mencionados, garantindo conformidade com as práticas recomendadas de APIs RESTful.
 
+**HTTP responses**
+| Código | Descrição |
+|---|---|
+| 200 | Requisição executada com sucesso (success)|
+| 400 | Bad request|
+| 404 | Registro pesquisado não encontrado (Not found)|
+| 500 | Internal server error|
+---
+
+
+### Listar Cliente
+
+#### Endpoint
+
+- **Método**: GET  
+- **URL**: '/localhost:7146/api/Clientes'
+
+#### Descrição
+Este endpoint retorna a lista de todos os clientes cadastrados no sistema.
+
+![image](https://github.com/user-attachments/assets/10a7ef6f-3cac-4e4b-b472-fd63fd61cc64)
+
+
+
+
+
+
+
+
 
 
