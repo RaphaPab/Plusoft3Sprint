@@ -1,6 +1,13 @@
 # Plusoft3Sprint
 
 
+## Integrantes
+- Raphael Pabst rm98525
+- Silvio Junior rm550821
+- Pedro Braga rm551061
+- Eduardo Reis Braga rm551987
+- Vinícius Martins Torres Abdala rm99455
+
 # Arquitetura da API
 
 ## Abordagem Monolítica
@@ -35,3 +42,6 @@ Cada recurso interage com o banco de dados **Oracle** utilizando o **Entity Fram
 - **DELETE**: Exclui recursos.
 
 Esses métodos estão disponíveis para todos os recursos mencionados, garantindo conformidade com as práticas recomendadas de APIs RESTful.
+
+
+
