@@ -58,7 +58,7 @@ Esses métodos estão disponíveis para todos os recursos mencionados, garantind
 #### Endpoint
 
 - **Método**: GET  
-- **URL**: '/localhost:7146/api/Clientes'
+- **URL**: 'localhost:7146/api/Clientes'
 
 #### Descrição
 Este endpoint retorna a lista de todos os clientes cadastrados no sistema.
@@ -73,7 +73,7 @@ Exemplo Corpo de resposta
 #### Endpoint
 
 - **Método**: GET  
-- **URL**: '/localhost:7146/api/Clientes/4'
+- **URL**: 'localhost:7146/api/Clientes/4'
 
 - #### Descrição
 Este endpoint retorna o ID do cliente cadastrado no sistema.
