@@ -1,4 +1,4 @@
-# Plusoft3Sprint
+# Plusoft3Sprint - Challenge
 
 
 ## Integrantes
@@ -42,6 +42,33 @@ Cada recurso interage com o banco de dados **Oracle** utilizando o **Entity Fram
 - **DELETE**: Exclui recursos.
 
 Esses métodos estão disponíveis para todos os recursos mencionados, garantindo conformidade com as práticas recomendadas de APIs RESTful.
+
+- **GET**
+
+
+- endpoint
+- exemplo corpo de resposta
+
+
+- **POST**
+
+- endpoint
+- exemplo corpo de request
+- exemplo corpo
+
+
+- **PUT**
+- endpoint
+- exemplo corpo de request
+- exemplo corpo de resposta
+
+
+DELETE
+
+- endpoint
+- exemplo de request
+- não há corpo de resposta
+
 
 **HTTP responses**
 | Código | Descrição |
