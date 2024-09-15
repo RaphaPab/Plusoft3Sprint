@@ -49,6 +49,8 @@ Serão implementados testes para garantir a funcionalidade da API:
 - Testes Unitários: Validação das funcionalidades da API, especialmente a lógica dos endpoints CRUD.
 - Testes de Integração: Verificação da comunicação com o banco de dados Oracle.
 
+---
+
 ## Endpoints CRUD
 
 Os endpoints da API seguem o padrão **CRUD** (Create, Read, Update, Delete) para os recursos:
@@ -101,6 +103,7 @@ DELETE
 | 400 | Bad request|
 | 404 | Registro pesquisado não encontrado (Not found)|
 | 500 | Internal server error|
+
 ---
 
 ### Buscar Lista de Clientes
