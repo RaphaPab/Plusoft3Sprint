@@ -116,13 +116,11 @@ DELETE
 - [Listar Cliente por ID](#Listar_Cliente_por_ID)
 - [Alterar dados no sistema](#Alterar_dados_no_sistema)
 - [Deletar dados no sistema](#Deletar_dados_no_sistema)
-- 
-- Deletar dados no sistema
 
 Alterar dados no sistema
 ---
 
-### Buscar Lista de Clientes
+### Buscar_Lista_de_Clientes
 
 #### Endpoint
 
@@ -207,7 +205,7 @@ Exemplo Corpo do request
 
 
 
-### Deletar dados no sistema
+### Deletar_dados_no_sistema
 
 
 
