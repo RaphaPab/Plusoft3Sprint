@@ -8,6 +8,13 @@
 - Eduardo Reis Braga rm551987
 - Vinícius Martins Torres Abdala rm99455
 
+## Implementação da API
+# Tecnologias Utilizadas:
+- ASP.NET Core Web API: Framework de desenvolvimento.
+- Banco de dados Oracle: Para operações CRUD (Create, Read, Update, Delete).
+- Swagger/OpenAPI: Documentação interativa dos endpoints.
+- Padrão de Criação: Usaremos o JSON para o gerenciador de configurações.
+
 # Arquitetura da API
 
 ## Abordagem Monolítica
@@ -35,6 +42,13 @@ Outro ponto relevante é a flexibilidade oferecida pelo JSON. Por ser um formato
 
 
 ---
+
+## Testes Unitários e Integração
+Serão implementados testes para garantir a funcionalidade da API:
+
+- Testes Unitários: Validação das funcionalidades da API, especialmente a lógica dos endpoints CRUD.
+- Testes de Integração: Verificação da comunicação com o banco de dados Oracle.
+
 ## Endpoints CRUD
 
 Os endpoints da API seguem o padrão **CRUD** (Create, Read, Update, Delete) para os recursos:
