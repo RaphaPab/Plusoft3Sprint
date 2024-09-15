@@ -141,7 +141,7 @@ Exemplo Corpo do request
 
 
 
-### Enviar dados
+### Enviar_dados
 
 #### Endpoint
 
@@ -166,7 +166,7 @@ Exemplo Corpo do request
 
 
 
-### Listar Cliente por ID
+### Listar_Cliente_por_ID
 
 
 
@@ -185,7 +185,7 @@ Exemplo Corpo do request
 ![image](https://github.com/user-attachments/assets/dfdc39f2-73f8-4d5b-8b25-9b20a43af03a)
 
 
-### Alterar dados no sistema
+### Alterar_dados_no_sistema
 
 
 
