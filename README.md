@@ -44,7 +44,13 @@ Outro ponto relevante é a flexibilidade oferecida pelo JSON. Por ser um formato
 
 ## Diferenças entre as arquiteturas
 
+Na arquitetura monolítica, a aplicação é concebida e executada como uma única e coesa unidade de software. Todo o código-fonte, desde os componentes de front-end até o back-end, incluindo a lógica de negócios e a integração com o banco de dados, está unificado em um único projeto ou processo. A implementação de uma API baseada nessa estrutura adota uma abordagem centralizada e direta, onde todas as funcionalidades estão interconectadas e funcionam dentro de um mesmo ambiente de execução, proporcionando uma comunicação mais eficiente entre os diferentes módulos da aplicação.
 
+A Camada de Apresentação, representada pelos Controllers, é a responsável por expor os endpoints da API para que os clientes ou consumidores possam interagir com os recursos oferecidos. Nessa camada, as requisições HTTP são recebidas, processadas e encaminhadas para as camadas responsáveis por tratar a lógica de negócios e manipulação dos dados.
+
+Já a Camada de Domínio, composta pelos Models, define as entidades que a API manipula. Essas entidades representam os objetos de domínio, ou seja, os recursos específicos da aplicação, como produtos, usuários ou qualquer outro elemento relevante para o funcionamento da API.
+
+Os endpoints responsáveis pelas operações CRUD (Create, Read, Update e Delete) serão implementados seguindo essa arquitetura monolítica. Isso implica que todas as operações relativas aos recursos da API, como a criação de novos registros, leitura, atualização e remoção de dados, estarão centralizadas no mesmo núcleo da aplicação, permitindo uma gestão unificada e simplificada dos dados e funcionalidades.
 
 ---
 
