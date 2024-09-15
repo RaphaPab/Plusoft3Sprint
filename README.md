@@ -40,6 +40,11 @@ Além disso, o JSON se destaca por sua leveza em comparação a outros formatos,
 
 Outro ponto relevante é a flexibilidade oferecida pelo JSON. Por ser um formato adaptável, ele permite que campos e propriedades sejam adicionados ou removidos sem que isso comprometa a compatibilidade com versões anteriores de uma API. Essa característica é fundamental para garantir a evolução contínua dos serviços, permitindo ajustes e melhorias de forma ágil, sem causar interrupções ou falhas na comunicação entre diferentes versões da API. Dessa maneira, o uso de JSON contribui para um desenvolvimento mais eficiente e uma manutenção mais simples das soluções de software.
 
+---
+
+## Diferenças entre as arquiteturas
+
+
 
 ---
 
@@ -103,6 +108,11 @@ DELETE
 | 400 | Bad request|
 | 404 | Registro pesquisado não encontrado (Not found)|
 | 500 | Internal server error|
+
+---
+
+[Listagem de Clientes](#Buscar_Lista_de_Clientes)
+
 
 ---
 
