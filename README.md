@@ -70,13 +70,13 @@ Serão implementados testes para garantir a funcionalidade da API:
 **Passos para Execução**
   1. Clone o repositório:
 
-      git clone https://github.com/RaphaPab/Plusoft3Sprint
+    git clone https://github.com/RaphaPab/Plusoft3Sprint
      
-  2. Configure as variáveis de ambiente com as credenciais de acesso ao banco Oracle.
+  3. Configure as variáveis de ambiente com as credenciais de acesso ao banco Oracle.
 
-  3. Execute as migrações do banco de dados:
+  4. Execute as migrações do banco de dados:
 
-      dotnet ef database update
+    dotnet ef database update
 
   4.Inicie a aplicação:
   
