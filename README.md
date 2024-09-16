@@ -63,27 +63,26 @@ Serão implementados testes para garantir a funcionalidade da API:
 ---
 ## Como executar a API
 
-Pré-requisitos
-.NET 6.0 ou superior
-Banco de Dados Oracle
-Passos para Execução
-Clone o repositório:
+**Pré-requisitos**
+- .NET 6.0 ou superior
+- Banco de Dados Oracle
+- 
+**Passos para Execução**
+  1. Clone o repositório:
 
-bash
-Copiar código
-git clone https://github.com/RaphaPab/Plusoft3Sprint
-Configure as variáveis de ambiente com as credenciais de acesso ao banco Oracle.
+      git clone https://github.com/RaphaPab/Plusoft3Sprint
+     
+  2. Configure as variáveis de ambiente com as credenciais de acesso ao banco Oracle.
 
-Execute as migrações do banco de dados:
+  3. Execute as migrações do banco de dados:
 
-bash
-Copiar código
-dotnet ef database update
-Inicie a aplicação:
+      dotnet ef database update
 
-bash
-Copiar código
-dotnet run
+  4.Inicie a aplicação:
+      Clique em https.
+  ![image](https://github.com/user-attachments/assets/266cf312-9dbc-41ac-9c08-203886ca308b)
+
+
 
 ---
 
