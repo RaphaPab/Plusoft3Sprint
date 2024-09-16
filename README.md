@@ -66,7 +66,7 @@ Serão implementados testes para garantir a funcionalidade da API:
 **Pré-requisitos**
 - .NET 6.0 ou superior
 - Banco de Dados Oracle
-- 
+  
 **Passos para Execução**
   1. Clone o repositório:
 
@@ -79,7 +79,9 @@ Serão implementados testes para garantir a funcionalidade da API:
       dotnet ef database update
 
   4.Inicie a aplicação:
+  
       Clique em https.
+      
   ![image](https://github.com/user-attachments/assets/266cf312-9dbc-41ac-9c08-203886ca308b)
 
 
